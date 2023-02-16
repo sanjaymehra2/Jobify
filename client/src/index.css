@@ -42,6 +42,8 @@ html {
   --red-dark: #842029;
   --green-light: #d1e7dd;
   --green-dark: #0f5132;
+  --green-logo: #237736;
+  --green-logo-hover:#5c9c4e;
 
   /* fonts  */
   --headingFont: 'Roboto Condensed', Sans-Serif;
@@ -148,7 +150,7 @@ ul {
 .btn {
   cursor: pointer;
   color: var(--white);
-  background: var(--primary-500);
+  background: var( --green-logo);
   border: transparent;
   border-radius: var(--borderRadius);
   letter-spacing: var(--letterSpacing);
@@ -159,7 +161,7 @@ ul {
   display: inline-block;
 }
 .btn:hover {
-  background: var(--primary-700);
+  background: var(--green-logo-hover);
   box-shadow: var(--shadow-3);
 }
 .btn-hipster {

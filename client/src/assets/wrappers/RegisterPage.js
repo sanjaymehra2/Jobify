@@ -10,7 +10,7 @@ const Wrapper = styled.section`
   }
   .form {
     max-width: 400px;
-    border-top: 5px solid var(--primary-500);
+    border-top: 5px solid var(--green-logo);
   }
 
   h3 {
@@ -27,7 +27,7 @@ const Wrapper = styled.section`
   .member-btn {
     background: transparent;
     border: transparent;
-    color: var(--primary-500);
+    color: var(--green-logo);
     cursor: pointer;
     letter-spacing: var(--letterSpacing);
   }

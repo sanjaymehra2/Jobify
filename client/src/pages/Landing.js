@@ -15,10 +15,7 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            I'm baby wayfarers hoodie next level taiyaki brooklyn cliche blue
-            bottle single-origin coffee chia. Aesthetic post-ironic venmo,
-            quinoa lo-fi tote bag adaptogen everyday carry meggings +1 brunch
-            narwhal.
+            Hello, This is Sanjay and Currently I am working on KoyalTechSolutions LLP Mumbai as a Front-end Developer but I hired as a Full stack developer. 
           </p>
           <Link to='/register' className='btn btn-hero'>
             Login/Register

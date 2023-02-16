@@ -34,19 +34,19 @@ const Wrapper = styled.aside`
     .nav-link {
       display: flex;
       align-items: center;
-      color: var(--grey-500);
+      color: var(--green-logo);
       padding: 1rem 0;
       padding-left: 2.5rem;
       text-transform: capitalize;
       transition: var(--transition);
     }
     .nav-link:hover {
-      background: var(--grey-50);
+      background: var(--green-logo);
       padding-left: 3rem;
-      color: var(--grey-900);
+      color: var(--white);
     }
     .nav-link:hover .icon {
-      color: var(--primary-500);
+      color: var(--green-logo);
     }
     .icon {
       font-size: 1.5rem;
@@ -56,10 +56,10 @@ const Wrapper = styled.aside`
       transition: var(--transition);
     }
     .active {
-      color: var(--grey-900);
+      color: var(--green-logo);
     }
     .active .icon {
-      color: var(--primary-500);
+      color: var(--green-logo);
     }
   }
 `

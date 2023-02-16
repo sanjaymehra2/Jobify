@@ -7,7 +7,7 @@ const Wrapper = styled.section`
     background: transparent;
     border-color: transparent;
     text-transform: capitalize;
-    color: var(--primary-500);
+    color: var( --green-dark);
     font-size: 1.25rem;
     cursor: pointer;
   }
